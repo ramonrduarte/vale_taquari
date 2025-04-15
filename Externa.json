@@ -471,8 +471,8 @@
       "type": "Feature",
       "properties": {
         "id": "4300802",
-        "name": "Antônio Prado",
-        "description": "Antônio Prado"
+        "name": "Antonio Prado",
+        "description": "Antonio Prado"
       },
       "geometry": {
         "type": "Polygon",
@@ -2003,8 +2003,8 @@
       "type": "Feature",
       "properties": {
         "id": "4301651",
-        "name": "Barão",
-        "description": "Barão"
+        "name": "Barao",
+        "description": "Barao"
       },
       "geometry": {
         "type": "Polygon",
@@ -2688,8 +2688,8 @@
       "type": "Feature",
       "properties": {
         "id": "4302352",
-        "name": "Bom Princípio",
-        "description": "Bom Princípio"
+        "name": "Bom Principio",
+        "description": "Bom Principio"
       },
       "geometry": {
         "type": "Polygon",
@@ -3106,8 +3106,8 @@
       "type": "Feature",
       "properties": {
         "id": "4302451",
-        "name": "Boqueirão do Leão",
-        "description": "Boqueirão do Leão"
+        "name": "Boqueirao do Leao",
+        "description": "Boqueirao do Leao"
       },
       "geometry": {
         "type": "Polygon",
@@ -3684,8 +3684,8 @@
       "type": "Feature",
       "properties": {
         "id": "4304200",
-        "name": "Candelária",
-        "description": "Candelária"
+        "name": "Candelaria",
+        "description": "Candelaria"
       },
       "geometry": {
         "type": "Polygon",
@@ -4709,8 +4709,8 @@
       "type": "Feature",
       "properties": {
         "id": "4304697",
-        "name": "Capitão",
-        "description": "Capitão"
+        "name": "Capitao",
+        "description": "Capitao"
       },
       "geometry": {
         "type": "Polygon",
@@ -6703,8 +6703,8 @@
       "type": "Feature",
       "properties": {
         "id": "4305959",
-        "name": "Cotiporã",
-        "description": "Cotiporã"
+        "name": "Cotipora",
+        "description": "Cotipora"
       },
       "geometry": {
         "type": "Polygon",
@@ -11644,8 +11644,8 @@
       "type": "Feature",
       "properties": {
         "id": "4308805",
-        "name": "General Câmara",
-        "description": "General Câmara"
+        "name": "General Camara",
+        "description": "General Camara"
       },
       "geometry": {
         "type": "Polygon",
@@ -12015,7 +12015,7 @@
       "type": "Feature",
       "properties": {
         "id": "4309258",
-        "name": "Guabiju",
+        "": "Guabiju",
         "description": "Guabiju"
       },
       "geometry": {
@@ -12254,7 +12254,7 @@
       "type": "Feature",
       "properties": {
         "id": "4309407",
-        "name": "Guaporé",
+        "": "Guaporé",
         "description": "Guaporé"
       },
       "geometry": {
@@ -13306,8 +13306,8 @@
       "type": "Feature",
       "properties": {
         "id": "4310306",
-        "name": "Ilópolis",
-        "description": "Ilópolis"
+        "name": "Ilopolis",
+        "description": "Ilopolis"
       },
       "geometry": {
         "type": "Polygon",
@@ -14265,8 +14265,8 @@
       "type": "Feature",
       "properties": {
         "id": "4311791",
-        "name": "Maratá",
-        "description": "Maratá"
+        "name": "Marata",
+        "description": "Marata"
       },
       "geometry": {
         "type": "Polygon",
@@ -14819,8 +14819,8 @@
       "type": "Feature",
       "properties": {
         "id": "4312153",
-        "name": "Mato Leitão",
-        "description": "Mato Leitão"
+        "name": "Mato Leitao",
+        "description": "Mato Leitao"
       },
       "geometry": {
         "type": "Polygon",
@@ -15974,8 +15974,8 @@
       "type": "Feature",
       "properties": {
         "id": "4312807",
-        "name": "Nova Araçá",
-        "description": "Nova Araçá"
+        "name": "Nova Araça",
+        "description": "Nova Araça"
       },
       "geometry": {
         "type": "Polygon",
@@ -16376,8 +16376,8 @@
       "type": "Feature",
       "properties": {
         "id": "4313003",
-        "name": "Nova Bréscia",
-        "description": "Nova Bréscia"
+        "name": "Nova Brescia",
+        "description": "Nova Brescia"
       },
       "geometry": {
         "type": "Polygon",
@@ -16551,8 +16551,8 @@
       "type": "Feature",
       "properties": {
         "id": "4313086",
-        "name": "Nova Pádua",
-        "description": "Nova Pádua"
+        "name": "Nova Padua",
+        "description": "Nova Padua"
       },
       "geometry": {
         "type": "Polygon",
@@ -17795,8 +17795,8 @@
       "type": "Feature",
       "properties": {
         "id": "4314001",
-        "name": "Paraí",
-        "description": "Paraí"
+        "name": "Parai",
+        "description": "Parai"
       },
       "geometry": {
         "type": "Polygon",
@@ -19859,8 +19859,8 @@
       "type": "Feature",
       "properties": {
         "id": "4315172",
-        "name": "Protásio Alves",
-        "description": "Protásio Alves"
+        "name": "Protasio Alves",
+        "description": "Protasio Alves"
       },
       "geometry": {
         "type": "Polygon",
@@ -23418,8 +23418,8 @@
       "type": "Feature",
       "properties": {
         "id": "4318440",
-        "name": "São Jorge",
-        "description": "São Jorge"
+        "name": "Sao Jorge",
+        "description": "Sao Jorge"
       },
       "geometry": {
         "type": "Polygon",
@@ -23689,8 +23689,8 @@
       "type": "Feature",
       "properties": {
         "id": "4318481",
-        "name": "São José do Hortêncio",
-        "description": "São José do Hortêncio"
+        "name": "Sao Jose do Hortencio",
+        "description": "Sao Jose do Hortencio"
       },
       "geometry": {
         "type": "Polygon",
@@ -23920,8 +23920,8 @@
       "type": "Feature",
       "properties": {
         "id": "4318614",
-        "name": "São José do Sul",
-        "description": "São José do Sul"
+        "name": "Sao Jose do Sul",
+        "description": "Sao Jose do Sul"
       },
       "geometry": {
         "type": "Polygon",
@@ -24091,8 +24091,8 @@
       "type": "Feature",
       "properties": {
         "id": "4319000",
-        "name": "São Marcos",
-        "description": "São Marcos"
+        "name": "Sao Marcos",
+        "description": "Sao Marcos"
       },
       "geometry": {
         "type": "Polygon",
@@ -24478,8 +24478,8 @@
       "type": "Feature",
       "properties": {
         "id": "4319356",
-        "name": "São Pedro da Serra",
-        "description": "São Pedro da Serra"
+        "name": "Sao Pedro da Serra",
+        "description": "Sao Pedro da Serra"
       },
       "geometry": {
         "type": "Polygon",
@@ -24637,8 +24637,8 @@
       "type": "Feature",
       "properties": {
         "id": "4319505",
-        "name": "São Sebastião do Caí",
-        "description": "São Sebastião do Caí"
+        "name": "Sao Sebastiao do Cai",
+        "description": "Sao Sebastiao do Cai"
       },
       "geometry": {
         "type": "Polygon",
@@ -24896,8 +24896,8 @@
       "type": "Feature",
       "properties": {
         "id": "4319711",
-        "name": "São Valentim do Sul",
-        "description": "São Valentim do Sul"
+        "name": "Sao Valentim do Sul",
+        "description": "Sao Valentim do Sul"
       },
       "geometry": {
         "type": "Polygon",
@@ -25063,8 +25063,8 @@
       "type": "Feature",
       "properties": {
         "id": "4319752",
-        "name": "São Vendelino",
-        "description": "São Vendelino"
+        "name": "Sao Vendelino",
+        "description": "Sao Vendelino"
       },
       "geometry": {
         "type": "Polygon",
@@ -25537,8 +25537,8 @@
       "type": "Feature",
       "properties": {
         "id": "4320404",
-        "name": "Serafina Corrêa",
-        "description": "Serafina Corrêa"
+        "name": "Serafina Correa",
+        "description": "Serafina Correa"
       },
       "geometry": {
         "type": "Polygon",
@@ -25820,8 +25820,8 @@
       "type": "Feature",
       "properties": {
         "id": "4320453",
-        "name": "Sério",
-        "description": "Sério"
+        "name": "Serio",
+        "description": "Serio"
       },
       "geometry": {
         "type": "Polygon",
@@ -26857,8 +26857,8 @@
       "type": "Feature",
       "properties": {
         "id": "4320859",
-        "name": "Tabaí",
-        "description": "Tabaí"
+        "name": "Tabai",
+        "description": "Tabai"
       },
       "geometry": {
         "type": "Polygon",
@@ -28363,8 +28363,8 @@
       "type": "Feature",
       "properties": {
         "id": "4322350",
-        "name": "União da Serra",
-        "description": "União da Serra"
+        "name": "Uniao da Serra",
+        "description": "Uniao da Serra"
       },
       "geometry": {
         "type": "Polygon",
@@ -29391,8 +29391,8 @@
       "type": "Feature",
       "properties": {
         "id": "4322608",
-        "name": "Venâncio Aires",
-        "description": "Venâncio Aires"
+        "name": "Venancio Aires",
+        "description": "Venancio Aires"
       },
       "geometry": {
         "type": "Polygon",
@@ -30621,8 +30621,8 @@
       "type": "Feature",
       "properties": {
         "id": "4322806",
-        "name": "Veranópolis",
-        "description": "Veranópolis"
+        "name": "Veranopolis",
+        "description": "Veranopolis"
       },
       "geometry": {
         "type": "Polygon",
