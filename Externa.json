@@ -2170,8 +2170,8 @@
       "type": "Feature",
       "properties": {
         "id": "4302105",
-        "name": "Bento Gonçalves",
-        "description": "Bento Gonçalves"
+        "name": "Bento Goncalves",
+        "description": "Bento Goncalves"
       },
       "geometry": {
         "type": "Polygon",
@@ -12254,8 +12254,8 @@
       "type": "Feature",
       "properties": {
         "id": "4309407",
-        "": "Guaporé",
-        "description": "Guaporé"
+        "": "Guapore",
+        "description": "Guapore"
       },
       "geometry": {
         "type": "Polygon",
@@ -15771,8 +15771,8 @@
       "type": "Feature",
       "properties": {
         "id": "4312609",
-        "name": "Muçum",
-        "description": "Muçum"
+        "name": "Mucum",
+        "description": "Mucum"
       },
       "geometry": {
         "type": "Polygon",
@@ -15974,8 +15974,8 @@
       "type": "Feature",
       "properties": {
         "id": "4312807",
-        "name": "Nova Araça",
-        "description": "Nova Araça"
+        "name": "Nova Araca",
+        "description": "Nova Araca"
       },
       "geometry": {
         "type": "Polygon",
@@ -19022,8 +19022,8 @@
       "type": "Feature",
       "properties": {
         "id": "4314753",
-        "name": "Poço das Antas",
-        "description": "Poço das Antas"
+        "name": "Poco das Antas",
+        "description": "Poco das Antas"
       },
       "geometry": {
         "type": "Polygon",
